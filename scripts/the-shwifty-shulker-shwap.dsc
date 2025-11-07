@@ -74,6 +74,9 @@ shulker_box_inventory_swapper:
         # 4. Give the player a little sparkle of feedback!
         - narrate "<&e>~* <&b>Champagne's Tidy-Upper! <&e>~* Inventory contents swapped!"
         - playsound <player> sound:block.amethyst_block.chime
+        # Use to spawn a cloud of rainbow-colored ENTITY_EFFECT particles around yourself.
+        - foreach <util.color_names> as:color:
+          - playeffect effect:ENTITY_EFFECT at:<context.location> quantity:25 special_data:[color=<[color]>]
 
         # 5. Cancel the block break event so the box stays put with its new contents.
         - determine cancelled
