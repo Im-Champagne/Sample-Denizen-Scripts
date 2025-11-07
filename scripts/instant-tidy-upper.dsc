@@ -1,12 +1,10 @@
 # x ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ x #
-# | 🎒 The Shwifty Shulker Shwap 📦                                | #
 # | The Concept: "The Instant Tidy-Upper"                           | #
-# v                                                                 v #
-# -    This script solves a classic problem in Vanilla Minecraft:   - #
-# - when you place a Shulker Box, you have to carefully empty your  - #
-# - inventory slots into it, then break it again. This script makes - #
-# - that process automagically!                                     - #
-# ^                                                                 ^ #
+# x ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ x #
+# | Description: This script solves a classic problem in Vanilla    | #
+# | Minecraft when you place a Shulker Box, you have to carefully   | #
+# | empty your inventory slots into it, then break it again. This   | #
+# | script makes that process automagically!                        | #
 # x ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ x #
 # v                                                                 v #
 # -                     *       ..     .-.   *                      - #
@@ -23,7 +21,7 @@
 # #              :+=*.-....--:+=.    ✩‧₊˚Champagne 🥂.₊✩*'         - #
 # -              +=%.:..-...:*-    ˚                                - #
 # #             -=*:.::.:+:-+:          11 / 07 / 25                - #
-# #             +--....::.=*.    '      Version 1.06                - #
+# #             +--....::.=*.    '      Version 1.07                - #
 # -             .*=:--::===.                             o          - #
 # -              *===++==.                                          - #
 # -       ˚     +:==:.                                              - #
@@ -48,7 +46,7 @@
 # x ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ x #
 
 # This script makes inventory management quick and easy!
-shulker_box_inventory_swapper:
+instant_tidy_upper:
   type: world
   debug: false
   events:

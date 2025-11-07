@@ -24,7 +24,7 @@ Here are the scripts you can find here so far (more coming as I experience more 
 
 | Script Name[`[1]`](https://github.com/Im-Champagne/Sample-Denizen-Scripts/) | Goal & Maximum Happiness Metric | Release Date |
 | :--- | :--- | :--- |
-| [`[The Instant Tidy-Upper]`](https://github.com/Im-Champagne/Sample-Denizen-Scripts/blob/main/scripts/the-shwifty-shulker-shwap.dsc) | Allows players to instantly swap their main inventory (slots 10-36) with a Shulker Box by sneaking and breaking the box. **Tidy-Up complete!** | Live! |
+| [`[The Instant Tidy-Upper]`](https://github.com/Im-Champagne/Sample-Denizen-Scripts/blob/main/scripts/instant-tidy-upper.dsc) | Allows players to instantly swap their main inventory (slots 10-36) with a Shulker Box by sneaking and breaking the box. **Tidy-Up complete!** | 11-07-25 |
 | **Coming Soon...** | I'm always tweaking and creating! | Planning |
 
 ---
