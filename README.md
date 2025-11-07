@@ -22,9 +22,9 @@ I believe that security is the foundation, but fun is the metric! Good developme
 
 Here are the scripts you can find here so far (more coming as I experience more personal growth!):
 
-| Script Name | Goal & Maximum Happiness Metric | Status |
+| Script Name[`[1]`](https://github.com/Im-Champagne/Sample-Denizen-Scripts/) | Goal & Maximum Happiness Metric | Release Date |
 | :--- | :--- | :--- |
-| [`[The Instant Tidy-Upper]`](https://github.com/Im-Champagne/Denizen-Sample-Scripts/) | Allows players to instantly swap their main inventory (slots 10-36) with a Shulker Box by sneaking and breaking the box. **Tidy-Up complete!** | Live! |
+| [`[The Instant Tidy-Upper]`](https://github.com/Im-Champagne/Sample-Denizen-Scripts/blob/main/scripts/the-shwifty-shulker-shwap.dsc) | Allows players to instantly swap their main inventory (slots 10-36) with a Shulker Box by sneaking and breaking the box. **Tidy-Up complete!** | Live! |
 | **Coming Soon...** | I'm always tweaking and creating! | Planning |
 
 ---
