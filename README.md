@@ -22,9 +22,10 @@ I believe that security is the foundation, but fun is the metric! Good developme
 
 Here are the scripts you can find here so far (more coming as I experience more personal growth!):
 
-| Script Name[`[1]`](https://github.com/Im-Champagne/Sample-Denizen-Scripts/) | Goal & Maximum Happiness Metric | Release Date |
+| Script Name[`[2]`](https://github.com/Im-Champagne/Sample-Denizen-Scripts/) | Goal & Maximum Happiness Metric | Release Date |
 | :--- | :--- | :--- |
 | [`[The Instant Tidy-Upper]`](https://github.com/Im-Champagne/Sample-Denizen-Scripts/blob/main/scripts/instant-tidy-upper.dsc) | Allows players to instantly swap their main inventory (slots 10-36) with a Shulker Box by sneaking and breaking the box. **Tidy-Up complete!** | 11-07-25 |
+| [`[Trap-Alert]`](https://github.com/Im-Champagne/Sample-Denizen-Scripts/blob/main/scripts/trap-alert.dsc) | Alerts the chest owner when a Trapped Chest is opened by anyone else, ensuring simple, automagical security. **Protected!** | 11-11-25 |
 | **Coming Soon...** | I'm always tweaking and creating! | Planning |
 
 ---
